@@ -3,7 +3,7 @@ A MiniZinc model a CSP to manage Rounds Services.
 
 Per eseguire il programma è necessario:
 
-  -Scariare la cartella contenente src contenente il codice AI_project_TurniDiServizio.mzn e i file data\data*.dzn;
+  -Scariare la cartella src contenente il codice AI_project_TurniDiServizio.mzn e i file data\data*.dzn;
   
   -Aprire il file AI_project_TurniDiServizio.mzn con l'IDE di MiniZinc
   
