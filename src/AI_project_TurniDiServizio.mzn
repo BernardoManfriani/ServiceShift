@@ -6,9 +6,6 @@ int: n; %Numero di infermieri
 int: D; %Infermieri turno giornaliero
 int: N; %Infermieri turno notturno
 
-var int: a;
-var int: b;
-
 set of int: ORARI = 0..23; 
 set of int: ORARIGIORNO = 6..22;
 set of int: ORARINOTTE = {0,1,2,3,4,5,6,22,23};
